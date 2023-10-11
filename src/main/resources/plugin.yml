@@ -1,8 +1,0 @@
-name: Skin
-version: '${project.version}'
-main: dev.wiceh.skin.Main
-api-version: 1.20
-authors: [ wIceh ]
-commands:
-  vestiti:
-  creaVestito:
